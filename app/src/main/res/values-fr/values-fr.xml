@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Le monde des animaux</string>
+
+    <string name="main_image">Main Image</string>
+    <string name="click_on_a_picture">CHOISI UNE IMAGE</string>
+    <string name="dog_image">Dog Image</string>
+    <string name="cat_image">Cat Image</string>
+    <string name="cow_image">Cow Image</string>
+    <string name="duck_image">Duck Image</string>
+    <string name="sheep_image">Sheep Image</string>
+    <string name="horse_image">Horse Image</string>
+    <string name="tiger_image">Tiger Image</string>
+    <string name="panda_image">Panda Image</string>
+    <string name="gorilla_image">Gorilla Image</string>
+    <string name="bird_image">Bird Image</string>
+    <string name="pig_image">Pig Image</string>
+    <string name="elephant_image">Elephant Image</string>
+
+    <string name="dog">COUCOU, JE SUIS UN CHIEN \nET MON PETIT EST UN CHIOT</string>
+    <string name="cat">COUCOU, JE SUIS UN CHAT \nET MON PETIT EST UN CHATON</string>
+    <string name="tiger">COUCOU, JE SUIS UN TIGRE \nET MON PETIT EST UN TIGREAU</string>
+    <string name="duck">COUCOU, JE SUIS UN CANARD \nET MON PETIT EST UN CANETON</string>
+    <string name="sheep">COUCOU, JE SUIS UN MOUTON \nET MON PETIT EST UN AGNEAU</string>
+    <string name="gorilla">COUCOU, JE SUIS UN GORILLE \nET MON PETIT EST UN GORILLON</string>
+    <string name="cow">COUCOU, JE SUIS UNE VACHE \nET MON PETIT EST UN VEAU</string>
+    <string name="panda">COUCOU, JE SUIS UN PANDA \nET MON PETIT EST UN BEBE PANDA</string>
+    <string name="horse">COUCOU, JE SUIS UN CHEVAL \nET MON PETIT EST UN POULAIN</string>
+    <string name="bird">COUCOU, JE SUIS UN OISEAU \nET MON PETIT EST UN OISILLON</string>
+    <string name="pig">COUCOU, JE SUIS UN COCHON \nET MON PETIT EST UN PORCELET</string>
+    <string name="elephant">COUCOU, JE SUIS UN ELEPHANT \nET MON ENFANT EST UN ELEPHANTEAU</string>
+</resources>

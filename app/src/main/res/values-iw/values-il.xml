@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">עולם החי</string>
+
+    <string name="main_image">Main Image</string>
+    <string name="click_on_a_picture">בחר תמונה</string>
+    <string name="dog_image">Dog Image</string>
+    <string name="cat_image">Cat Image</string>
+    <string name="cow_image">Cow Image</string>
+    <string name="duck_image">Duck Image</string>
+    <string name="sheep_image">Sheep Image</string>
+    <string name="horse_image">Horse Image</string>
+    <string name="tiger_image">Tiger Image</string>
+    <string name="panda_image">Panda Image</string>
+    <string name="gorilla_image">Gorilla Image</string>
+    <string name="bird_image">Bird Image</string>
+    <string name="pig_image">Pig Image</string>
+    <string name="elephant_image">Elephant Image</string>
+
+    <string name="dog">שלום אני כלב \nוקטן שלי הוא כלבלב</string>
+    <string name="cat">שלום אני חתול \nוקטן שלי הוא חתלתול</string>
+    <string name="tiger">שלום אני נמר \nוקטן שלי הוא גור נמר</string>
+    <string name="duck">שלום אני ברווז \nוקטן שלי הוא ברווזן</string>
+    <string name="sheep">שלום אני כבש \nוקטן שלי הוא טלה</string>
+    <string name="gorilla">שלום אני גורילה \nוקטן שלי הוא תינוק גורילה</string>
+    <string name="cow">שלום אני פרה \nוקטן שלי הוא עגל</string>
+    <string name="panda">שלום אני פנדה \nוקטן שלי הוא פנדה תינוק</string>
+    <string name="horse">שלום אני סוס \nוקטן שלי הוא סוסון</string>
+    <string name="bird">שלום אני ציפור \nוקטן שלי הוא גוזל</string>
+    <string name="pig">שלום אני חזיר \nוקטן שלי הוא חזרזיר</string>
+    <string name="elephant">שלום אני פיל \nוקטן שלי הוא פיל פעוט</string>
+
+</resources>

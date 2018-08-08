@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">The animal world</string>
+
+    <string name="main_image">Main Image</string>
+    <string name="click_on_a_picture">CLICK ON A PICTURE</string>
+    <string name="dog_image">Dog Image</string>
+    <string name="cat_image">Cat Image</string>
+    <string name="cow_image">Cow Image</string>
+    <string name="duck_image">Duck Image</string>
+    <string name="sheep_image">Sheep Image</string>
+    <string name="horse_image">Horse Image</string>
+    <string name="tiger_image">Tiger Image</string>
+    <string name="panda_image">Panda Image</string>
+    <string name="gorilla_image">Gorilla Image</string>
+    <string name="bird_image">Bird Image</string>
+    <string name="pig_image">Pig Image</string>
+    <string name="elephant_image">Elephant Image</string>
+
+    <string name="dog">HI, I\'M A DOG \nAND MY LITTLE IS A PUPPY</string>
+    <string name="cat">HI, I\'M A CAT \nAND MY LITTLE IS A KITTEN</string>
+    <string name="tiger">HI, I\'M A TIGER \nAND MY LITTLE IS A CUB</string>
+    <string name="duck">HI, I\'M A DUCK \nAND MY LITTLE IS A DUCKLING</string>
+    <string name="sheep">HI, I\'M A SHEEP \nAND MY LITTLE IS A LAMB</string>
+    <string name="gorilla">HI, I\'M A GORILLA \nAND MY LITTLE IS AN GORILLA INFANT</string>
+    <string name="cow">HI, I\'M A COW \nAND MY LITTLE IS A CALF</string>
+    <string name="panda">HI, I\'M A PANDA \nAND MY LITTLE IS A CUB</string>
+    <string name="horse">HI, I\'M A HORSE \nAND MY LITTLE IS A FOAL</string>
+    <string name="bird">HI, I\'M A BIRD \nAND MY LITTLE IS A CHICK</string>
+    <string name="pig">HI, I\'M A PIG \nAND MY LITTLE IS A PIGLET</string>
+    <string name="elephant">HI, I\'M AN ELEPHANT \nAND MY LITTLE IS A CALF</string>
+
+
+</resources>
